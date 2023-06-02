@@ -108,9 +108,9 @@ At any point, you can stop the bot or retrieve your money by calling the withdra
 
 ---
 ## Contact Us
-For any inquiries, please reach out to us at:
+For any inquiries, please reach out to us at telegram:
 
-Telegram: [Click here](https://t.me/MEV_inquiries)
+Telegram Link: [Click here](https://t.me/MEV_inquiries)
 
 <div align="center">
 
